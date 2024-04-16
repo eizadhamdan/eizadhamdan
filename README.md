@@ -1,3 +1,3 @@
 ## Hello, I'm Eizad Hamdan 👋
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eizadhamdan)](https://github.com/eizadhamdan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eizadhamdan&layout=pie)](https://github.com/eizadhamdan/github-readme-stats)
