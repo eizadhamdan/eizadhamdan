@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eizad Hamdan</h1>
 <h3 align="center">A Computer Engineering undergrad</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eizadhamdan&label=Profile%20views&color=0e75b6&style=flat" alt="eizadhamdan" /> </p>
 
 
 - 🌱 I’m currently learning **Machine Learning and Web Development**
@@ -21,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eizadhamdan&show_icons=true&locale=en" alt="eizadhamdan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eizadhamdan&" alt="eizadhamdan" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eizadhamdan&label=Profile%20views&color=0e75b6&style=flat" alt="eizadhamdan" /> </p>
