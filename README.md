@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eizad Hamdan</h1>
-<h3 align="center">A Computer Engineering undergrad</h3>
+<h3 align="center">A Computer Engineering undergraduate</h3>
 
 
 
