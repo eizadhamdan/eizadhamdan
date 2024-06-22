@@ -16,6 +16,6 @@
 # 📊 GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=eizadhamdan&theme=shades-of-purple&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eizadhamdan&theme=shades-of-purple&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eizadhamdan&langs_count=10&exclude_repo=ML_specialization_courses&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eizadhamdan&langs_count=10&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://komarev.com/ghpvc/?username=eizadhamdan&label=Profile%20views&color=0e75b6&style=flat" alt="eizadhamdan" />
