@@ -3,7 +3,7 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Eizad Hamdan
 
 
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+- 🌱 I’m currently learning **Web Development and Generative AI**
 
 - 👨‍💻 My Portfolio Website [https://eizadhamdan.github.io](https://eizadhamdan.github.io)
 
