@@ -12,7 +12,7 @@
 <p align="left">
 </p>
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
 <!-- Languages -->
 [![C](https://img.shields.io/badge/C-%23555555.svg?logo=c&logoColor=white)](#)
